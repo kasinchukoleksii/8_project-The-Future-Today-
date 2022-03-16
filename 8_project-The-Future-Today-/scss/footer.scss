@@ -1,0 +1,93 @@
+footer {
+  .svg_1 {
+    z-index: 1;
+    position: absolute;
+    padding-left: 35%;
+    padding-top: 10%;
+  }
+  .svg_2 {
+    z-index: 1;
+    position: absolute;
+    padding-left: 50%;
+    padding-top: 5%;
+  }
+  position: relative;
+  background: url("../img/footerBG.png");
+  height: 100vh;
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: center;
+  .logo_download {
+    z-index: 2;
+    position: relative;
+    display: flex;
+    justify-content: center;
+    padding-top: 150px;
+    img {
+
+    }
+    .download_app {
+      padding-left: 20px;
+      h1 {
+        font-size: 70px;
+        color: #ffffff;
+      }
+      h3 {
+        font-size: 25px;
+        color: #A496CA;
+      }
+    }
+  }
+  .button {
+    display: flex;
+    justify-content: center;
+    padding: 150px 90px 0 90px;
+    button {
+      margin: 0 30px 0 30px;
+      width: 310px;
+      height: 77px;
+      color: #ffffff;
+      background-color: #5C3CAF;
+      cursor: pointer;
+      text-align: center;
+      text-decoration: none;
+      outline: none;
+      border: 1px solid #5C3CAF;
+      border-radius: 50px;
+      vertical-align: middle;
+      a {
+        color: #ffffff;
+      }
+      img {
+        width: 32px;
+        padding: 0;
+        vertical-align: middle;
+      }
+    }
+  }
+  .footer {
+    background: rgba(10,14,52,0.60);
+    height: 10%;
+    position: absolute;
+    bottom: 0;
+    right: 0;
+    width: 100%;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    .img_logo {
+      width: 189px;
+      height: 33px;
+      padding: 0 30px 0 30px;
+    }
+    .social {
+      img {
+        padding: 0 10px 0 10px;
+      }
+    }
+    p {
+      color: #ffffff;
+      padding: 0 30px 0 30px;
+    }
+  }
+}

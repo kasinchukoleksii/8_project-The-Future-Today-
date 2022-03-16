@@ -1,0 +1,257 @@
+main .athlets_players .athlets {
+  height: 100vh; }
+  main .athlets_players .athlets .ATHLETS_320 {
+    display: none; }
+  main .athlets_players .athlets .svg_container {
+    z-index: 1;
+    position: absolute;
+    padding-right: 50%; }
+    main .athlets_players .athlets .svg_container img {
+      width: 90%; }
+  main .athlets_players .athlets .footballer {
+    position: absolute;
+    z-index: 2;
+    padding: 20px 50% 0 50px; }
+    main .athlets_players .athlets .footballer img {
+      width: 80%; }
+  main .athlets_players .athlets .CONNECTION {
+    height: 40%;
+    padding-left: 50%;
+    padding-right: 10%; }
+    main .athlets_players .athlets .CONNECTION h2 {
+      padding-top: 30px;
+      padding-bottom: 30px;
+      color: #E7E7E7;
+      font-size: 60px; }
+    main .athlets_players .athlets .CONNECTION .span {
+      display: flex; }
+      main .athlets_players .athlets .CONNECTION .span span {
+        color: #000000;
+        font-size: 12px;
+        margin-top: 30px;
+        border-bottom: 2px solid #603EBE; }
+      main .athlets_players .athlets .CONNECTION .span h3 {
+        padding-top: 30px;
+        font-size: 20px;
+        padding-left: 5px;
+        color: #C2C2C2; }
+    main .athlets_players .athlets .CONNECTION p {
+      padding-top: 10px; }
+  main .athlets_players .athlets .COLLABORATION {
+    height: 30%;
+    padding-left: 50%;
+    padding-right: 10%;
+    background: #F5F4F9; }
+    main .athlets_players .athlets .COLLABORATION .span {
+      display: flex; }
+      main .athlets_players .athlets .COLLABORATION .span span {
+        color: #000000;
+        font-size: 12px;
+        margin-top: 30px;
+        border-bottom: 2px solid #603EBE; }
+      main .athlets_players .athlets .COLLABORATION .span h3 {
+        padding-top: 30px;
+        font-size: 20px;
+        padding-left: 5px;
+        color: #C2C2C2; }
+    main .athlets_players .athlets .COLLABORATION p {
+      padding-top: 10px; }
+  main .athlets_players .athlets .GROWTH {
+    height: 30%;
+    padding-left: 50%;
+    padding-right: 10%;
+    background: #5E3DB3; }
+    main .athlets_players .athlets .GROWTH .span {
+      display: flex; }
+      main .athlets_players .athlets .GROWTH .span span {
+        color: #000000;
+        font-size: 12px;
+        margin-top: 30px;
+        border-bottom: 2px solid #ffffff; }
+      main .athlets_players .athlets .GROWTH .span h3 {
+        padding-top: 30px;
+        font-size: 20px;
+        padding-left: 5px;
+        color: #C2C2C2; }
+    main .athlets_players .athlets .GROWTH p {
+      padding-top: 10px;
+      color: #ffffff; }
+
+main .athlets_players .players {
+  height: 100vh; }
+  main .athlets_players .players .svg_container {
+    z-index: 1;
+    position: absolute;
+    padding-left: 50%; }
+    main .athlets_players .players .svg_container img {
+      width: 90%; }
+  main .athlets_players .players .footballer {
+    position: absolute;
+    z-index: 2;
+    padding: 0px 20px 0 45%; }
+    main .athlets_players .players .footballer img {
+      width: 90%; }
+  main .athlets_players .players .CONNECTION {
+    height: 40%;
+    padding-right: 50%;
+    padding-left: 10%; }
+    main .athlets_players .players .CONNECTION h2 {
+      padding-top: 30px;
+      padding-bottom: 30px;
+      color: #E7E7E7;
+      font-size: 60px; }
+    main .athlets_players .players .CONNECTION .span {
+      display: flex; }
+      main .athlets_players .players .CONNECTION .span span {
+        color: #000000;
+        font-size: 12px;
+        margin-top: 30px;
+        border-bottom: 2px solid #603EBE; }
+      main .athlets_players .players .CONNECTION .span h3 {
+        padding-top: 30px;
+        font-size: 20px;
+        padding-left: 5px;
+        color: #C2C2C2; }
+    main .athlets_players .players .CONNECTION p {
+      padding-top: 10px; }
+  main .athlets_players .players .COLLABORATION {
+    height: 30%;
+    padding-right: 50%;
+    padding-left: 10%;
+    background: #F5F4F9; }
+    main .athlets_players .players .COLLABORATION .span {
+      display: flex; }
+      main .athlets_players .players .COLLABORATION .span span {
+        color: #000000;
+        font-size: 12px;
+        margin-top: 30px;
+        border-bottom: 2px solid #603EBE; }
+      main .athlets_players .players .COLLABORATION .span h3 {
+        padding-top: 30px;
+        font-size: 20px;
+        padding-left: 5px;
+        color: #C2C2C2; }
+    main .athlets_players .players .COLLABORATION p {
+      padding-top: 10px; }
+  main .athlets_players .players .GROWTH {
+    height: 30%;
+    padding-right: 50%;
+    padding-left: 10%;
+    background: #090C35; }
+    main .athlets_players .players .GROWTH .span {
+      display: flex; }
+      main .athlets_players .players .GROWTH .span span {
+        color: #8F6BE8;
+        font-size: 12px;
+        margin-top: 30px;
+        border-bottom: 2px solid #ffffff; }
+      main .athlets_players .players .GROWTH .span h3 {
+        padding-top: 30px;
+        font-size: 20px;
+        padding-left: 5px;
+        color: #C2C2C2; }
+    main .athlets_players .players .GROWTH p {
+      padding-top: 10px;
+      color: #ffffff; }
+
+main .be_active_square .square {
+  margin: 200px 45% 50% 45%;
+  position: absolute;
+  z-index: 2;
+  width: 10%;
+  height: 10vh;
+  text-align: center;
+  background: #5E3DB3; }
+  main .be_active_square .square span {
+    color: #fff;
+    border-bottom: 3px solid #8E77C9; }
+
+main .be_active_square .be_active {
+  z-index: 1;
+  display: inline-flex;
+  width: 100%; }
+  main .be_active_square .be_active .img_active {
+    width: 50%; }
+    main .be_active_square .be_active .img_active img {
+      width: 100%; }
+  main .be_active_square .be_active .content_active {
+    width: 50%; }
+    main .be_active_square .be_active .content_active h2 {
+      margin: 200px 0 30px 100px;
+      color: #E7E7E7;
+      font-size: 70px; }
+    main .be_active_square .be_active .content_active p {
+      width: 40%;
+      margin: 0 0 40px 100px; }
+    main .be_active_square .be_active .content_active .line {
+      width: 20px;
+      margin: 70px 0 30px 100px;
+      border-bottom: 3px solid #5E3DB3; }
+
+main .find_contact_square .square {
+  margin: 200px 45% 50% 45%;
+  position: absolute;
+  z-index: 2;
+  width: 10%;
+  height: 10vh;
+  text-align: center;
+  background: #5E3DB3; }
+  main .find_contact_square .square span {
+    color: #fff;
+    border-bottom: 3px solid #8E77C9; }
+
+main .find_contact_square .find_contact {
+  z-index: 1;
+  display: inline-flex;
+  width: 100%; }
+  main .find_contact_square .find_contact .img_find {
+    width: 50%; }
+    main .find_contact_square .find_contact .img_find img {
+      width: 100%; }
+  main .find_contact_square .find_contact .content_find {
+    width: 50%; }
+    main .find_contact_square .find_contact .content_find h2 {
+      margin: 200px 0 30px 100px;
+      color: #E7E7E7;
+      font-size: 70px; }
+    main .find_contact_square .find_contact .content_find p {
+      width: 40%;
+      margin: 0 0 40px 100px; }
+    main .find_contact_square .find_contact .content_find .line {
+      width: 20px;
+      margin: 70px 0 30px 100px;
+      border-bottom: 3px solid #5E3DB3; }
+
+main .work_it_square .square {
+  margin: 200px 45% 50% 45%;
+  position: absolute;
+  z-index: 2;
+  width: 10%;
+  height: 10vh;
+  text-align: center;
+  background: #5E3DB3; }
+  main .work_it_square .square span {
+    color: #fff;
+    border-bottom: 3px solid #8E77C9; }
+
+main .work_it_square .work_contact {
+  z-index: 1;
+  display: inline-flex;
+  width: 100%; }
+  main .work_it_square .work_contact .img_work {
+    width: 50%; }
+    main .work_it_square .work_contact .img_work img {
+      width: 100%; }
+  main .work_it_square .work_contact .content_work {
+    width: 50%; }
+    main .work_it_square .work_contact .content_work h2 {
+      margin: 200px 0 30px 100px;
+      color: #E7E7E7;
+      font-size: 70px; }
+    main .work_it_square .work_contact .content_work p {
+      width: 40%;
+      margin: 0 0 40px 100px; }
+    main .work_it_square .work_contact .content_work .line {
+      width: 20px;
+      margin: 70px 0 30px 100px;
+      border-bottom: 3px solid #5E3DB3; }
